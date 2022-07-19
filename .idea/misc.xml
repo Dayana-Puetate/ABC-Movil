@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DESCARGAS-ANDROID/pruebasAndroid/app/src/main/res/layout/activity_devolucion.xml" value="0.20416666666666666" />
+        <entry key="..\:/DESCARGAS-ANDROID/pruebasAndroid/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/DESCARGAS-ANDROID/pruebasAndroid/app/src/main/res/layout/activity_prestamo.xml" value="0.25" />
+        <entry key="..\:/DESCARGAS-ANDROID/pruebasAndroid/app/src/main/res/layout/activity_principal.xml" value="0.20416666666666666" />
+        <entry key="..\:/DESCARGAS-ANDROID/pruebasAndroid/app/src/main/res/layout/activity_registro.xml" value="0.20416666666666666" />
+        <entry key="..\:/DESCARGAS-ANDROID/pruebasAndroid/app/src/main/res/layout/activity_ver_pedidos.xml" value="0.20416666666666666" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/drawable/boton_fondo.xml" value="0.2203125" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/drawable/boton_off.xml" value="0.2203125" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/drawable/boton_on.xml" value="0.2203125" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/drawable/boton_ordenar.xml" value="0.2203125" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/drawable/esquinas_redondeadas.xml" value="0.2203125" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/drawable/fondo_ordenar.xml" value="0.2203125" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/drawable/fondo_principal.xml" value="0.2203125" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/drawable/fondo_secundario.xml" value="0.2203125" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/activity_detalle_pedido.xml" value="0.17074275362318841" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/activity_detalle_producto.xml" value="0.2" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/activity_pedido.xml" value="0.21" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/activity_principal.xml" value="0.33" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/activity_registro.xml" value="0.17889492753623187" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/activity_ver_detalle.xml" value="0.1634963768115942" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/activity_ver_pedidos.xml" value="0.1743659420289855" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/fragment_detalle_pedido.xml" value="0.33" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/item_detalle.xml" value="0.33" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/item_detalle_pedido.xml" value="0.25" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/items_pedidos.xml" value="0.25" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/layout/items_productos.xml" value="0.33" />
+        <entry key="..\:/pruebasAndroid/app/src/main/res/menu/menu_superior.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

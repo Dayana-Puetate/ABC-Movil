@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="txtLogin">LOGIN</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="txtRecuerdame">Recuérdame</string>
+    <string name="btnEnvio">Guardar</string>
+    <string name="txtPedido">Mis Pedidos</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnGuardarPro">Agregar</string>
+    <string name="txtBienvenido">Bienvenido</string>
+    <string name="opCerrarSesion">Cerrar Sesión</string>
+</resources>
